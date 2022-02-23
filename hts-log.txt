@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 20 Jan 2022 10:36:19 at https://weboas.is/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://weboas.is/ -O1 "C:\My Web Sites\weboasis" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:41:10	Error: 	"Service Unavailable" (503) at link https://g0.si/ (from https://weboas.is/)
+10:43:11	Warning: 	Found for streamwat.ch/robots.txt
+10:43:11	Warning: 	File has moved from streamwat.ch/robots.txt to https://weboas.is/404.html
+10:44:19	Warning: 	Note: due to https://chatte.rs remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+10:47:49	Error: 	Exit requested by shell or user
+10:47:49	Warning: 	File not added due to mirror cancel: https://weboas.is/convert/currency/assets/img/flags/MW.png
+10:47:49	Error: 	"Not Found" (404) at link https://weboas.is/editors/media/unscreen.jpg (from https://weboas.is/editors/)
+10:47:50	Error: 	"Not Found" (404) at link https://weboas.is/arcade/media/panzer.jpg (from https://weboas.is/arcade/)
+10:47:51	Error: 	"Error when decompressing" (-1) at link https://weboas.is/forum/themes/webOasis (from https://weboas.is/forum/)
+10:47:51	Error: 	"Error when decompressing" (-1) at link https://weboas.is/forum/themes/default (from https://weboas.is/forum/)
+10:47:51	Warning: 	Found for https://weboas.is/forum/themes/webOasis/images/
+10:47:51	Warning: 	File has moved from https://weboas.is/forum/themes/webOasis/images/ to https://weboas.is/forum
+10:47:51	Warning: 	Found for https://weboas.is/forum/smileys/
+10:47:51	Warning: 	File has moved from https://weboas.is/forum/smileys/ to https://weboas.is/forum
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 39 seconds : 797 links scanned, 785 files written (21075185 bytes overall) [8072388 bytes received at 11548 bytes/sec], 18157589 bytes transferred using HTTP compression in 423 files, ratio 25%, 23.1 requests per connection
+(6 errors, 8 warnings, 0 messages)

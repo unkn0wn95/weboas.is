@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.icanhazip.com	TRUE	/	FALSE	1999999999	__cf_bm	d7Ets0gIoBe3dhZ7TaO3TD1NKX92jaoPurBZnhqflnE-1642703803-0-AWvnAYiE8NIxccik8wuoI7tU/eJXqKJtZFHcqEyolWTS1jBvoyQCR1/J2qUzmdbN36Fqt6BtxKRf9u7Sxph8XPE=
+icanhazip.com	TRUE	/	FALSE	1999999999	SameSite	None
+weboas.is	TRUE	/	FALSE	1999999999	PHPSESSID	8d991b6acf51df113726c96f39d27259
+.streamwat.ch	TRUE	/	FALSE	1999999999	__ddg1	jXwj1acm747cU9ke6KcV
+.weboas.is	TRUE	/	FALSE	1999999999	__ddg1	QCKlS4nkKhav5X2ICJ4L
+
